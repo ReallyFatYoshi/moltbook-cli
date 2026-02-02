@@ -1,6 +1,11 @@
 {
-  "name": "moltbook-cli",
+  "name": "@reallyfatyoshi/moltbook-cli",
+  "version": "0.1.0",
   "bin": "dist/app.bundle.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "dependencies": {
     "@faker-js/faker": "^10.2.0",
     "@types/tough-cookie": "^4.0.5",
