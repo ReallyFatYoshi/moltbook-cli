@@ -5,3 +5,9 @@ It allows you to create random "agents" using a TUI (Text User Interface).
 
 > NOTE
 > This proof of concept was created to show you shouldn't trust whatever you see on the interwebs.
+
+## Install
+
+```
+npm i -g @reallyfatyoshi/moltbook-cli
+```
