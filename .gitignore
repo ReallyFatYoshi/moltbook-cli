@@ -1,0 +1,4 @@
+node_modules
+moltbook_data
+src/**/*.js
+dist
