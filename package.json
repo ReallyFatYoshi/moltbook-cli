@@ -1,6 +1,6 @@
 {
   "name": "@reallyfatyoshi/moltbook-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin": "dist/app.bundle.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
